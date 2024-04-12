@@ -1,0 +1,142 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\School\\DotNet database programming\\A11-IC-Movies\\A11-IC-CreateContextConsole\\A11-IC-CreateContextConsole.csproj": {}
+  },
+  "projects": {
+    "C:\\School\\DotNet database programming\\A11-IC-Movies\\A11-IC-CreateContextConsole\\A11-IC-CreateContextConsole.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\School\\DotNet database programming\\A11-IC-Movies\\A11-IC-CreateContextConsole\\A11-IC-CreateContextConsole.csproj",
+        "projectName": "A11-IC-CreateContextConsole",
+        "projectPath": "C:\\School\\DotNet database programming\\A11-IC-Movies\\A11-IC-CreateContextConsole\\A11-IC-CreateContextConsole.csproj",
+        "packagesPath": "C:\\Users\\14143\\.nuget\\packages\\",
+        "outputPath": "C:\\School\\DotNet database programming\\A11-IC-Movies\\A11-IC-CreateContextConsole\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\14143\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\School\\DotNet database programming\\A11-IC-Movies\\A11-IC-CreateContextLibary\\A11-IC-CreateContextLibary.csproj": {
+                "projectPath": "C:\\School\\DotNet database programming\\A11-IC-Movies\\A11-IC-CreateContextLibary\\A11-IC-CreateContextLibary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\School\\DotNet database programming\\A11-IC-Movies\\A11-IC-CreateContextLibary\\A11-IC-CreateContextLibary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\School\\DotNet database programming\\A11-IC-Movies\\A11-IC-CreateContextLibary\\A11-IC-CreateContextLibary.csproj",
+        "projectName": "A11-IC-CreateContextLibary",
+        "projectPath": "C:\\School\\DotNet database programming\\A11-IC-Movies\\A11-IC-CreateContextLibary\\A11-IC-CreateContextLibary.csproj",
+        "packagesPath": "C:\\Users\\14143\\.nuget\\packages\\",
+        "outputPath": "C:\\School\\DotNet database programming\\A11-IC-Movies\\A11-IC-CreateContextLibary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\14143\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

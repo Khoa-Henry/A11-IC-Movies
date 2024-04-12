@@ -1,0 +1,13 @@
+C:\School\DotNet database programming\A11-IC-Movies\A11-IC-CreateContextLibary\bin\Debug\net8.0\A11-IC-CreateContextLibary.deps.json
+C:\School\DotNet database programming\A11-IC-Movies\A11-IC-CreateContextLibary\bin\Debug\net8.0\A11-IC-CreateContextLibary.runtimeconfig.json
+C:\School\DotNet database programming\A11-IC-Movies\A11-IC-CreateContextLibary\bin\Debug\net8.0\A11-IC-CreateContextLibary.dll
+C:\School\DotNet database programming\A11-IC-Movies\A11-IC-CreateContextLibary\bin\Debug\net8.0\A11-IC-CreateContextLibary.pdb
+C:\School\DotNet database programming\A11-IC-Movies\A11-IC-CreateContextLibary\obj\Debug\net8.0\A11-IC-CreateContextLibary.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\DotNet database programming\A11-IC-Movies\A11-IC-CreateContextLibary\obj\Debug\net8.0\A11-IC-CreateContextLibary.AssemblyInfoInputs.cache
+C:\School\DotNet database programming\A11-IC-Movies\A11-IC-CreateContextLibary\obj\Debug\net8.0\A11-IC-CreateContextLibary.AssemblyInfo.cs
+C:\School\DotNet database programming\A11-IC-Movies\A11-IC-CreateContextLibary\obj\Debug\net8.0\A11-IC-CreateContextLibary.csproj.CoreCompileInputs.cache
+C:\School\DotNet database programming\A11-IC-Movies\A11-IC-CreateContextLibary\obj\Debug\net8.0\A11-IC-CreateContextLibary.dll
+C:\School\DotNet database programming\A11-IC-Movies\A11-IC-CreateContextLibary\obj\Debug\net8.0\refint\A11-IC-CreateContextLibary.dll
+C:\School\DotNet database programming\A11-IC-Movies\A11-IC-CreateContextLibary\obj\Debug\net8.0\A11-IC-CreateContextLibary.pdb
+C:\School\DotNet database programming\A11-IC-Movies\A11-IC-CreateContextLibary\obj\Debug\net8.0\A11-IC-CreateContextLibary.genruntimeconfig.cache
+C:\School\DotNet database programming\A11-IC-Movies\A11-IC-CreateContextLibary\obj\Debug\net8.0\ref\A11-IC-CreateContextLibary.dll

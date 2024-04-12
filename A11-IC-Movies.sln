@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A11-IC-CreateContextLibary", "A11-IC-CreateContextLibary\A11-IC-CreateContextLibary.csproj", "{AAA447D5-4F5F-4D68-95CC-7805C8536194}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A11-IC-CreateContextConsole", "A11-IC-CreateContextConsole\A11-IC-CreateContextConsole.csproj", "{144302FB-E10C-40EF-B20B-239174F040CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAA447D5-4F5F-4D68-95CC-7805C8536194}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAA447D5-4F5F-4D68-95CC-7805C8536194}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAA447D5-4F5F-4D68-95CC-7805C8536194}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAA447D5-4F5F-4D68-95CC-7805C8536194}.Release|Any CPU.Build.0 = Release|Any CPU
+		{144302FB-E10C-40EF-B20B-239174F040CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{144302FB-E10C-40EF-B20B-239174F040CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{144302FB-E10C-40EF-B20B-239174F040CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{144302FB-E10C-40EF-B20B-239174F040CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63609050-4922-4A7E-88BB-349666BC2453}
+	EndGlobalSection
+EndGlobal

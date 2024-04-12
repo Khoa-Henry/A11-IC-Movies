@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "A11-IC-CreateContextConsole/1.0.0": {
+        "dependencies": {
+          "A11-IC-CreateContextLibary": "1.0.0"
+        },
+        "runtime": {
+          "A11-IC-CreateContextConsole.dll": {}
+        }
+      },
+      "A11-IC-CreateContextLibary/1.0.0": {
+        "runtime": {
+          "A11-IC-CreateContextLibary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A11-IC-CreateContextConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "A11-IC-CreateContextLibary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
